@@ -1,11 +1,11 @@
 # Recruitment-Data
-# 🚀 Project Title
+# Project Title
 
 > Short description of your project (1–2 lines explaining what it does)
 
 ---
 
-## 📖 About
+## About
 
 Explain your project in detail:
 - What problem does it solve?
@@ -24,7 +24,7 @@ Explain your project in detail:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Frontend: HTML, CSS, JavaScript / React
 - Backend: Node.js / Python / etc.
@@ -33,7 +33,7 @@ Explain your project in detail:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Follow these steps to run the project locally:
 
